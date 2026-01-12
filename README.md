@@ -43,7 +43,3 @@ The notebook applies statistics to realistic scenarios such as:
 - NumPy
 - SciPy
 - Jupyter Notebook
-
----
-
-## 📁 Project Structure
